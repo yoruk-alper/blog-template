@@ -1,8 +1,8 @@
 ---
-title: My first Blog Post
+title: My second Blog Post
 description: Learning how to use @nuxt/content to create a blog
 img: https://images.unsplash.com/photo-1631507467986-bc98ba4ed1b3?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60
-alt: my first blog post
+alt: my second blog post
 author:
   name: Benjamin
   bio: All about Benjamin
@@ -19,11 +19,11 @@ This is some more info
 
 ### This is another sub heading
 
-This is some more info11
+This is some more info
 
-## This is another heading22
+## This is another heading
 
-This is some more info33
+This is some more info
 
 # My first blog post
 
@@ -39,7 +39,7 @@ export default {
 }
 ```
 ```html
-<p>code styling is easy</p>das
+<p>code styling is easy</p>
 ```
 
 <info-box>
